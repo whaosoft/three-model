@@ -1,2 +1,2 @@
 # three-model
-基于threejs的模型分享
+基于threejs的模型免费分享
